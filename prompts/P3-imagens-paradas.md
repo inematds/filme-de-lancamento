@@ -11,8 +11,8 @@
 | `[HISTÓRIA]` | A versão aprovada no P1 | Versão 2 |
 | `[CORES]` | Duas ou três cores da marca | Laranja `#E8622C` e creme |
 | `[FONTE]` | Fonte da marca, se tiver | Sora |
-| `[FORMATO]` | 1920x1080, deitado, ou 1080x1920, em pé, para WhatsApp e Instagram. O formato em pé ainda não foi testado no kit | 1080x1920 |
-| `[SEGUNDOS]` | Momentos para conferir | 2, 9, 17 |
+| `[FORMATO]` | 1920x1080, deitado, ou 1080x1920, em pé, para WhatsApp e Instagram. O formato em pé ainda não foi testado no kit | 1920x1080 |
+| `[SEGUNDOS]` | Um momento de cada cena. Se não souber, peça para a IA escolher | 2, 6, 10, 14, 19, 24, 27 |
 
 ## Cole na IA
 

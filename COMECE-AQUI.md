@@ -26,7 +26,7 @@ Você vai fazer um filme de cerca de 30 segundos para o seu negócio. Você conv
 - O logo oficial, em boa qualidade.
 - Música é opcional: o filme pode sair sem música, só com efeitos. Veja [AVISOS.md](AVISOS.md).
 
-## O caminho, em 8 passos
+## O caminho, em 9 passos
 
 1. **Instale e abra a pasta do kit.**
    - **Windows ou Mac (ainda sem teste com o kit):** baixe o app Claude na [página oficial](https://code.claude.com/docs/pt/desktop-quickstart), instale e entre na sua conta. No Windows ele fica no menu Iniciar; no Mac, em Aplicativos.
@@ -35,12 +35,13 @@ Você vai fazer um filme de cerca de 30 segundos para o seu negócio. Você conv
    - **Abra a pasta sem terminal:** no app, clique na aba **Code**. Abaixo da caixa de texto, escolha **Local** e, no controle ao lado, **Open folder…**. O ZIP pode criar uma pasta dentro de outra: escolha a pasta onde aparece o arquivo `COMECE-AQUI.md`.
    - **Linux (testado):** [instale o Claude Code](https://code.claude.com/docs/pt/setup), abra o terminal dentro da pasta do kit e digite `claude`.
 2. **Cole o pedido abaixo.** A IA confere o que falta no computador. Quando ela pedir para instalar algo, responda sim se ela disse o que é e para que serve. Se não entender, escreva "explique de forma simples".
-3. **Conte a história.** Escreva para a IA: `siga o arquivo prompts/P1`. Você não precisa abrir nenhum arquivo `.md`: ela lê o arquivo e pergunta o que falta.
-4. **Entregue o que é real.** Escreva: `siga o arquivo prompts/P2`.
-5. **Olhe as imagens paradas.** Escreva: `siga o arquivo prompts/P3`. Corrigir aqui é rápido. Se quiser o filme em pé, para WhatsApp e Instagram, peça 1080x1920. Essa opção ainda não foi testada no kit.
-6. **Peça ritmo, sons e sua marca.** Escreva, um de cada vez: `siga o arquivo prompts/P4`, `siga o arquivo prompts/P5` e `siga o arquivo prompts/P7`. No P7, a IA troca a marca e mostra as imagens paradas. Confira com o [checklist antes de gerar](checklists/antes-de-renderizar.md) e aprove. Só então ela gera o vídeo.
-7. **Assista e corrija por segundo.** O filme fica em `filme/renders/filme.mp4`. Assista com o [checklist depois de gerar](checklists/depois-de-gerar.md). Para achar o arquivo, peça `abra a pasta onde está o vídeo pronto`. Para corrigir, escreva `siga o arquivo prompts/P6` e diga o que mudar, até gostar.
-8. **Passe para o celular.** Abra o [WhatsApp Web](https://web.whatsapp.com/) e envie o arquivo para você mesmo, ou mande por e-mail como anexo. Depois baixe no celular. O filme sai deitado; o formato em pé, 1080x1920, ainda não foi testado no kit.
+3. **Teste antes de personalizar.** Escreva: `gere o filme de exemplo sem mudar nada e me diga onde ele ficou`. Assista ao vídeo. Se falhar, copie o erro para a IA e tente uma vez. Se não resolver, pare aqui, antes de gastar tempo com a sua história.
+4. **Conte a história.** Escreva para a IA: `siga o arquivo prompts/P1`. Você não precisa abrir nenhum arquivo `.md`: ela lê o arquivo e pergunta o que falta.
+5. **Entregue o que é real.** Escreva: `siga o arquivo prompts/P2`.
+6. **Olhe as imagens paradas.** Escreva: `siga o arquivo prompts/P3`. Corrigir aqui é rápido. Se quiser o filme em pé, para WhatsApp e Instagram, peça 1080x1920. Essa opção ainda não foi testada no kit.
+7. **Peça ritmo, sons e sua marca.** Escreva, um de cada vez: `siga o arquivo prompts/P4`, `siga o arquivo prompts/P5` e `siga o arquivo prompts/P7`. No P7, a IA troca a marca e mostra as imagens paradas. Confira com o [checklist antes de gerar](checklists/antes-de-renderizar.md) e aprove. Só então ela gera o vídeo.
+8. **Assista e corrija por segundo.** O filme fica em `filme/renders/filme.mp4`. Assista com o [checklist depois de gerar](checklists/depois-de-gerar.md). Para achar o arquivo, peça `abra a pasta onde está o vídeo pronto`. Para corrigir, escreva `siga o arquivo prompts/P6` e diga o que mudar, até gostar.
+9. **Passe para o celular.** Abra o [WhatsApp Web](https://web.whatsapp.com/) e envie o arquivo para você mesmo, ou mande por e-mail como anexo. Depois baixe no celular. O filme sai deitado; o formato em pé, 1080x1920, ainda não foi testado no kit.
 
 ## O pedido para colar
 

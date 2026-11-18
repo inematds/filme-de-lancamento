@@ -40,8 +40,8 @@ Después, solo tienes que pedir `sigue el archivo prompts/P1`, y así sucesivame
 | Carpeta o archivo | Para qué sirve |
 |---|---|
 | [COMECE-AQUI.md](COMECE-AQUI.md) (en portugués) | El camino corto para quien nunca editó videos |
-| [prompts/](prompts/) | P1 a P7, las instrucciones para pegar en la IA, con los campos explicados |
-| [amostra/METODO-DA-AMOSTRA.md](amostra/METODO-DA-AMOSTRA.md) | Cómo hacer una película corta para un negocio y mostrársela solo a su dueño |
+| [prompts/](prompts/) (en portugués) | P1 a P7, las instrucciones para pegar en la IA, con los campos explicados |
+| [amostra/METODO-DA-AMOSTRA.md](amostra/METODO-DA-AMOSTRA.md) (en portugués) | Cómo hacer una película corta para un negocio y mostrársela solo a su dueño |
 | [checklists/](checklists/) | Qué revisar antes de generar, después de generar y antes de enviar |
 | [filme/](filme/) | La película de ejemplo, editable |
 | [ferramentas/mapa_batidas.py](ferramentas/mapa_batidas.py) | Mide la música e indica dónde cortar |
