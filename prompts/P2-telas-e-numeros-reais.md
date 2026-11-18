@@ -36,7 +36,8 @@ Regras:
 - Pergunte se quem aparece nas fotos autorizou. Sem autorização, a foto fica fora.
 - Se o filme for amostra para outro negócio, não use fotos de terceiros sem permissão nem
   rostos de clientes ou funcionários. Prefira fotos minhas do local visto da rua,
-  ilustração ou texto.
+  ilustração ou texto. Para app, use telas públicas só na amostra privada. Para criador,
+  use texto, ilustração e o nome público, sem o rosto nem os vídeos da pessoa.
 - Se um número não tiver fonte, tire do filme e me avise.
 
 Me mostre a tabela e espere meu sim antes de mudar qualquer arquivo.

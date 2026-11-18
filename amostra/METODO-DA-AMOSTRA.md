@@ -8,9 +8,9 @@ Este método serve para mostrar trabalho. Ele não garante resposta, cliente nem
 
 Procure um produto bom com um vídeo fraco, ou sem vídeo:
 
-- **Lojas perto de você.** Você conhece o produto e consegue ir até lá.
-- **Apps novos.** Costumam ter telas boas e pouca explicação em vídeo.
-- **Criadores que você acompanha.** Você já entende o público e o tom.
+- **Lojas perto de você.** Você conhece o produto e consegue ir até lá. Use fotos suas do local visto da rua.
+- **Apps novos.** Costumam ter telas boas e pouca explicação em vídeo. Use telas públicas do próprio app ou site, só na amostra privada e sem publicar.
+- **Criadores que você acompanha.** Você já entende o público e o tom. Use texto, ilustração e o nome público, sem o rosto nem os vídeos da pessoa.
 
 Escolha quem você consegue elogiar com sinceridade. Se o produto não convence você, passe para o próximo.
 
@@ -25,9 +25,11 @@ Escolha quem você consegue elogiar com sinceridade. Se o produto não convence 
 Use junto com os prompts P1 a P7:
 
 ```text
-Este filme é uma amostra não oficial para [NEGÓCIO]. Não use fotos de terceiros sem
-permissão nem rostos de clientes ou funcionários. Use minhas fotos do local visto da rua,
-ilustração ou texto. Deixe visível em todas as cenas: "Amostra não oficial, feita sem vínculo com [NEGÓCIO]".
+Este filme é uma amostra não oficial para [NEGÓCIO], que é [LOJA, APP OU CRIADOR].
+Loja: use minhas fotos do local visto da rua, ilustração ou texto. App: use telas públicas
+do próprio app ou site, só nesta amostra privada. Criador: use texto, ilustração e o nome
+público, sem o rosto nem os vídeos da pessoa. Não use outras fotos de terceiros sem
+permissão nem rostos de clientes ou funcionários. Deixe visível em todas as cenas: "Amostra não oficial, feita sem vínculo com [NEGÓCIO]".
 Use o logo oficial sem alterar. Depois de gerar o vídeo, corte uma amostra de 5 a 15
 segundos para eu enviar. Não publique nem envie nada.
 ```
@@ -36,11 +38,11 @@ A trilha do exemplo é só para uso não comercial e não serve para uma amostra
 
 ## Mensagem curta
 
-> Oi, [NOME], fiz uma ideia curta de vídeo de lançamento para [NEGÓCIO], como amostra não oficial. Quer ver a versão completa?
+> Oi, [NOME], aqui é [SEU NOME]. Fiz uma ideia curta de vídeo de lançamento para [NEGÓCIO], como amostra não oficial, e o vídeo está anexado. Quer ver a versão completa?
 
 ## Versão mais longa
 
-> Oi, [NOME]. Gostei de [DETALHE REAL DO PRODUTO] e fiz uma ideia curta de vídeo de lançamento para [NEGÓCIO]. É uma amostra não oficial e não publiquei em lugar nenhum. Ela mostra [PROBLEMA QUE O PRODUTO RESOLVE]. Quer ver a versão completa? Se não fizer sentido, sem problema.
+> Oi, [NOME], aqui é [SEU NOME]. Gostei de [DETALHE REAL DO PRODUTO] e fiz uma ideia curta de vídeo de lançamento para [NEGÓCIO]. O vídeo está anexado. É uma amostra não oficial e não publiquei em lugar nenhum. Ela mostra [PROBLEMA QUE O PRODUTO RESOLVE]. Quer ver a versão completa? Se não fizer sentido, sem problema.
 
 ## O único lembrete
 
@@ -60,7 +62,7 @@ Depois disso, pare.
 - Nada de publicar antes do sim, nem em portfólio.
 - Confira as regras da marca antes de usar logo, nome ou telas.
 - Negócio pequeno sem regras publicadas: use o logo do próprio site ou perfil, sem alterar, não publique e peça autorização antes de qualquer uso público.
-- Não use fotos de terceiros sem permissão no material enviado como trabalho seu. Prefira fotos suas do local visto da rua, ilustração ou texto.
+- Não use fotos de terceiros sem permissão no material enviado como trabalho seu. Prefira fotos suas do local visto da rua, ilustração ou texto. Telas públicas de app ou site entram só na amostra privada.
 - Nunca mostre rostos de clientes ou funcionários.
 - Sem dado de cliente, número inventado ou depoimento criado.
 - Se a pessoa pedir para apagar ou parar, apague e pare.

@@ -12,7 +12,7 @@
    ```
 3. **Pode manter os efeitos sonoros do kit.** Eles seguem a licença MIT, inclusive em uso comercial. O arquivo `trilha.wav` não é efeito: é a música do exemplo.
 4. **Troque logo, banners, nomes e números do INEMA** pelos do seu negócio.
-5. **Peça autorização de quem aparece nas fotos,** como clientes e funcionários. Em amostra para outro negócio, não use fotos de terceiros sem permissão nem rostos de clientes ou funcionários. Prefira fotos suas do local visto da rua, ilustração ou texto.
+5. **Peça autorização de quem aparece nas fotos,** como clientes e funcionários. Em amostra para outro negócio, não use fotos de terceiros sem permissão nem rostos de clientes ou funcionários. Prefira fotos suas do local visto da rua, ilustração ou texto. Telas públicas de app entram só na amostra privada. Com criador, use texto, ilustração e o nome público, sem o rosto nem os vídeos da pessoa.
 6. **Se você só vai usar o vídeo pronto, siga estes passos e guarde os comprovantes.** Se quiser vender o kit ou uma ferramenta feita com ele, leia antes as licenças do GSAP e do HyperFrames.
 
 Estes passos são uma orientação prática. Em caso de dúvida sobre o seu uso, procure quem possa avaliar o seu caso.

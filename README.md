@@ -8,7 +8,7 @@
 
 Você tem um negócio bom e nenhum vídeo que mostre isso. O **filme por conversa** é um kit grátis e aberto para fazer um filme de lançamento de cerca de 30 segundos, sem programa de edição, conversando em português com o Claude Code, uma IA que cria arquivos no seu computador. Serve para quem tem um pequeno negócio, procura trabalho ou quer uma renda extra e nunca editou vídeo. Você precisa de um computador, de um plano pago do Claude e de fotos do negócio feitas no celular; números, só se tiver. A IA confere o que falta instalar.
 
-**O que precisa:** computador e [plano pago do Claude](https://claude.com/pricing); a página oficial informa que todos os planos pagos incluem o Claude Code. **Testado em Linux; Windows e Mac ainda sem teste.** Nesses sistemas, faça primeiro um teste com o filme de exemplo, antes de personalizar.
+**O que precisa:** computador e plano pago do Claude. O kit é grátis; o plano mais barato com Claude Code, o Pro, custava [US$ 20 por mês](https://claude.com/pricing) em 18/11/2026, no pagamento mensal. Todo plano tem limite de uso, e não medimos quanto um filme consome. **Testado em Linux; Windows e Mac ainda sem teste.** Nesses sistemas, confira o [mínimo oficial do Claude Code](https://code.claude.com/docs/pt/setup), que não garante o filme, e teste primeiro com o filme de exemplo.
 
 **Programas gratuitos:** a IA pode precisar instalar Node.js, que roda o programa que monta o filme; FFmpeg, que junta imagem e som; Chrome, que desenha cada quadro; e Python, que mede a música, se você usar uma. Você aprova antes.
 
@@ -88,7 +88,7 @@ P6 vem depois de P7 porque a revisão olha o filme já gerado com a sua marca.
 - **Chrome para render**. Rode `npx hyperframes@0.8.77 doctor` em `filme/` para ver o que falta. Ele também avisa que existe versão mais nova do HyperFrames; este kit fica fixo na 0.8.77 para o filme sair igual.
 - **Python 3 com `numpy` e `scipy`**, só para medir a música.
 
-Testado em Linux ARM64. Windows e Mac não foram testados com o kit. Os requisitos mínimos de memória e disco não foram medidos.
+Testado em Linux ARM64. Windows e Mac não foram testados com o kit. O mínimo oficial do Claude Code é Windows 10 versão 1809 ou macOS 13, com 4 GB de memória, processador x64 ou ARM64 e internet. Isso não garante o filme: o mínimo para gerá-lo não foi medido.
 
 ### Rodar o filme de exemplo
 
